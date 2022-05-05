@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Teknooo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Teknooo</string>
+    <string name="nav_header_subtitle">Muhammad Alkausar</string>
+    <string name="nav_header_desc">Navigation</string>
+    <string name="action_indonesia">Indonesia</string>
+    <string name="action_english">English</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+
+    <string name="selamatdatang">Selamat Datang</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="M001">Powerfull M001</string>
+    <string name="M002">Responsive M002</string>
+    <string name="M003">High DPI M003</string>
+    <string name="X001">Speed X001</string>
+    <string name="X002">Strong X002</string>
+    <string name="X003">Cheap X003</string>
+
+    <string name="aM001">Mouse M001</string>
+    <string name="aM002">Mouse M002</string>
+    <string name="aM003">Mouse M003</string>
+    <string name="aX001">Mouse X001</string>
+    <string name="aX002">Mouse X002</string>
+    <string name="aX003">Mouse X003</string>
+
+
+</resources>
